@@ -1,4 +1,4 @@
-# COVID19-Data-Analysis-Using-Python
+# COVIDTrends - COVID19-Data-Analysis-Using-Python
 
 COVIDInsight - COVID-19 Data Analyzer
 ### Overview
